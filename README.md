@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Заголовок
+Наша цель - сделать Joomla! CMS лучше / Our aim is to make Joomla! CMS even better
 
-You can use the [editor on GitHub](https://github.com/SeptdirTestOrg/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Кто мы?
+Мы - русскоязычное сообщество любителей Joomla! CMS.
+Зачем мы тут?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Наша цель - сделать Joomla! CMS лучше.
+А можно конкретнее?
 
-### Markdown
+Если вы нашли ошибку в CMS и знаете как её решить или хотите предложить улучшение, но не знаете как правильно создать Issue / оформить Pull Request, мы вам поможем.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Вам необязательно знать английский, так как мы общаемся с вами на русском и далее продвигаем ваши идеи и предложения в репозиторий Joomla! CMS.
 
-```markdown
-Syntax highlighted code block
+Мы также пытаемся собрать всё самое полезное для разработчиков в одном месте.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeptdirTestOrg/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Мне это интересно, с чего начать?
+Ссылки ниже помогут вам выбрать интересующее вас направление.
+Вы также можете начать с нашей страницы помощи. Там вы найдёте необходимую информацию о том, как вы можете помочь в развитии Joomla! CMS.
