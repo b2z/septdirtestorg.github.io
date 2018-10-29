@@ -1,6 +1,3 @@
-# Заголовок
-Наша цель - сделать Joomla! CMS лучше / Our aim is to make Joomla! CMS even better
-
 ## Кто мы?
 Мы - русскоязычное сообщество любителей Joomla! CMS.
 Зачем мы тут?
